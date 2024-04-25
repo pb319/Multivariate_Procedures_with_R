@@ -3,8 +3,12 @@ It is a 12-Weeks NPTEL course taught by Prof. Shalabh who is a Professor of Stat
 #### Table of Contents:
 - Week 1
 
-**Week 1:**
-  Description:
-    Here We dealt with basic R syntax which will enable us to carry out our Multivariate Analysis with R easily in the long run. Course reference
-  Topics Covered:
+#### **Week 1:**
+-   **Description:**
+    - Here We dealt with basic R syntax which will enable us to carry out our Multivariate Analysis with R easily in the long run. Course reference - Click Here.
+   
+
+- **Topics Covered:**
+    - R Installation
+    - Seeking Help in R
     - 
