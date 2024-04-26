@@ -19,7 +19,7 @@ It is a 12-Weeks NPTEL course taught by Prof. Shalabh who is a Professor of Stat
    
 
 - **Topics Covered:**
-    - Data Vectors
+    - Introduction to Data Vectors
     - Logical Operators
     - Matrix Data Structure
     - Measures of Central Tendency
