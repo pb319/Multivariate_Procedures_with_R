@@ -18,7 +18,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 ****
 #### **Week 2:**
 -   **Description:**
-    - Here We dealt with the implementation of basic measures of central tendency, dispersion, etc. along with handing data with data vectors, matrix() function in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=20&lesson=31).
+    - Here We dealt with the implementation of basic measures of central tendency, dispersion, etc. along with handling data with data vectors, matrix() function in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=20&lesson=31).
    
 
 - **Topics Covered:**
@@ -27,6 +27,20 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Matrix Data Structure
     - Measures of Central Tendency
     - Measures of Dispersion
+
+***
+
+****
+#### **Week 3:**
+-   **Description:**
+    - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=20&lesson=31).
+   
+
+- **Topics Covered:**
+    - Basic Descriptive Statistics
+    - Handling Missing Value
+    - Measures of Central Tendency (With Missing Value)
+    - Measures of Dispersion (With Missing Value)
 
 ***
 Coming Soon!
