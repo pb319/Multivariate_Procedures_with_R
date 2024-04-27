@@ -50,7 +50,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 - **Topics Covered:**
     - Introduction to Dataframes
-    - Handling Missing Value
+    - Simple and Grouped Boxplot
     - Measures of Central Tendency (With Missing Value)
     - Measures of Dispersion (With Missing Value)
 
