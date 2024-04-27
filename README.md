@@ -30,7 +30,6 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 ***
 
-****
 #### **Week 3:**
 -   **Description:**
     - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=28&lesson=52).
@@ -38,6 +37,19 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 - **Topics Covered:**
     - Basic Descriptive Statistics
+    - Handling Missing Value
+    - Measures of Central Tendency (With Missing Value)
+    - Measures of Dispersion (With Missing Value)
+
+***
+
+#### **Week 4:**
+-   **Description:**
+    - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=29&lesson=56).
+   
+
+- **Topics Covered:**
+    - Introduction to Dataframes
     - Handling Missing Value
     - Measures of Central Tendency (With Missing Value)
     - Measures of Dispersion (With Missing Value)
