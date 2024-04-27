@@ -1,23 +1,33 @@
+# Multivariate Normal
 install.packages("mvtnorm")
 library(mvtnorm)
 
 # Generating 5 Random Observation
 rmvnorm(n=5,mean=c(10,20,11,16),sigma=diag(c(2,3,4,4.5)) )
 
+# Chi Square Distribution (Quantile)
+qchisq(p=0.6, df=10)
+
+# t Distribution (Quantile)
+qt(p=0.6, df=10)
+
+# F Distribution (Quantile)
+qf(p=0.6, df1=5, df2=10)
+
+# MLE on Multivariate Normal
 library(mvtnorm)
-# MLE on Multivatriate Normal
 x = rmvnorm(n=5,mean = c(11,15,19),sigma=diag(c(4,5,9)))
-# X Bar
-colMeans(x)
 
-#Cov Matrix
-var(x)
-n = ncol(x)
-(n-1)*var(x)*n
+  # X Bar
+  colMeans(x)
+  
+  # Cov Matrix
+  var(x)
+  n = ncol(x)
+  (n-1)*var(x)*n
 
-# Correlation Coefficient
-
-cor(x)
+  # Correlation Coefficient
+  cor(x)
 
 # Assignment WEEK-6
 
