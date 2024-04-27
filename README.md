@@ -60,16 +60,28 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 #### **Week 5:**
 -   **Description:**
-    - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=30&lesson=61).
+    - Here We dealt with the implementation of few diagrams to represent 3D and More Dimentional Data like, 3D Plot, Starts, and Chernoff Faces along with Normal Distribution in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=30&lesson=61).
    
 
 - **Topics Covered:**
-    - Introduction to Dataframes
-    - Simple and Grouped Boxplot
-    - Simple and Multiple Bar Diagram
-    - Grouped and Multiple Histogram
-    - Scatter Plot and Variation
-    - Matrix Scatter Plot
+    - 3d Plot
+    - Star Plot
+    - Chernoff Faces
+    - Normal Distribution (PDF, CDF, Quantiles)
 
 ***
+
+#### **Week 6:**
+-   **Description:**
+    - Here We dealt with sampling distributions like Chi Square, t, F along with Estimation through Multivariate Normal in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=35&lesson=80).
+   
+
+- **Topics Covered:**
+    - Introduction to Multivariate Normal
+    - Chi Square Distribution, t, F
+    - MLE on Multivariate Normal
+    - 
+
+***
+
 Coming Soon!
