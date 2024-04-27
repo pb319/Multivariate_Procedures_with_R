@@ -1,13 +1,17 @@
-x = c(1,2,NA,14,7,NA)
-is.na(x)
+#Covariance:
+cov(c(1,2,3.5,2),c(4,5,1,2))
 
-# Position of NA
-which(is.na(x))
+# Correlation Coefficient:
+cor(c(1,2,3.5,2),c(4,5,1,2))
 
-# Count of NA
-sum(is.na(x))
+# Scatter Plot
+water <- c(33710,31666,33495,32758,34067,36069,
+           37497,33044,35216, 35383,37066,38037,38495,
+           39895,41311,42849,43038,43873,43923, 45078,
+           46935,47951,46085,48003,45050,42924,46061)
 
-which(complete.cases(x))
+temp <- c(23,25,25,26,27,28,30,26,29,32,33,34,
+          35,38,39,42,43,44, 45,45.5,45,46,44,44,41,37,40)
 
 # Covariance cov(x,y)
 x = c(10,9,8,7,1,7,5)
@@ -21,7 +25,47 @@ plot(z,x)
 scatter.smooth(x,y)
 ?scatter.smooth
 
-#Assignment
+plot(water,temp)
+scatter.smooth(water,temp)
+cor(water,temp)
+
+#logical vector with 'TRUE' in the locations having NA
+x = c(1,2,NA,14,7,NA)
+is.na(x)
+
+# Position of NA
+which(is.na(x))
+
+# Count of NA
+sum(is.na(x))
+
+# Negation of is.na()
+which(complete.cases(x))
+
+# Exact Non-NULL values
+x[which(complete.cases(x))]
+
+# Finding Complete List
+na.omit(x)
+
+# Measures with Missing Data
+mean(x) # Gives NA
+?mean
+mean(x,na.rm=TRUE) # Expected
+max(x,na.rm = T) - min(x,na.rm = T) # Range
+IQR(temp,na.rm = T)
+
+# Mean Absolute Deviation about Median
+time.na = c(NA, NA, 45, 83, 74, 55, 68, 38,
+            35, 55, 66, 65, 42, 68, 72, 84, 67, 36, 42, 58)
+mean(abs((time.na - median(time.na, na.rm=TRUE))),
+     na.rm= TRUE)
+
+# Standard Deviation (na.rm() doen't work)
+sqrt((length(na.omit(time.na)) - 1)/ 
+       length(na.omit(time.na))*var(time.na, na.rm=T))
+
+#Assignment Week-3
  # Q.1
 bt = c(101.4,99.5,102.5,101.0,NA,103.2,NA,103.8,NA,104.2)
 mean(bt,na.rm = TRUE)
