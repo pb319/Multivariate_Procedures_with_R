@@ -33,7 +33,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 ****
 #### **Week 3:**
 -   **Description:**
-    - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=20&lesson=31).
+    - Here We shall be dealing with the techniques to handle missing(NA) values in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=28&lesson=52).
    
 
 - **Topics Covered:**
