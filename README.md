@@ -112,13 +112,9 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Tests for Mean Vector with Multivariate Data (One Sample)
     - Hotelling T-Square Statistic (Unknown Covariance Matrix)
     - Tests for Mean Vector with Multivariate Data (Two Samples)
-    - Scaling of Data (Standardization and Normalization)
-    - Central Limit Theorem
-    - Test for One Sample Mean (Sigma known and unknown)
-    - Paired Test
-    - Testing Hypothesis for Difference of Means (Independent Samples)
-    - Analysis of Variance (ANOVA)
-    - Homogeneity of Variance (Bartlett Test)
+    - Scaling of Data (Standardization/ Z- Score)
+    - Introduction to Multiple Linear Regression
+    - Assumptions, Estimation of Parameters (OLS, MLE)
 
 ***
 
