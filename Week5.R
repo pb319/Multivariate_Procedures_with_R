@@ -26,12 +26,12 @@ faces(data3d)
 # Normal Distribution
 
 # P(X>22)
-1- pnorm(q=22,mean=20,sd=sqrt(4))
+1- pnorm(q=22,mean=20,sd=sqrt(4)) # Area under the Curve
 pnorm(q=22,mean = 20, sd = sqrt(4), lower.tail = F)
 
 # 90% quantile q
 ?qnorm
-qnorm(p=0.9, mean=20, sd=sqrt(4))
+qnorm(p=0.9, mean=20, sd=sqrt(4)) # Point
 
 # generate 4 random numbers
 rnorm(4,mean=20,sd=sqrt(4))
