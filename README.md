@@ -119,5 +119,21 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 ***
 
+#### **Week 9:**
+-   **Description:**
+    - In this section, the focus was on building the foundation for the 'Testing of Hypothesis' to extend the same into multivariate cases in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=37&lesson=99).
+   
+
+- **Topics Covered:**
+    - Tests for Mean Vector with Multivariate Data (One Sample)
+    - Hotelling T-Square Statistic (Unknown Covariance Matrix)
+    - Tests for Mean Vector with Multivariate Data (Two Samples)
+    - Scaling of Data (Standardization/ Z- Score)
+    - Introduction to Multiple Linear Regression
+    - Assumptions, Estimation of Parameters (OLS, MLE)
+    - Gauss-Markov Theorem
+
+***
+
 
 Coming Soon!
