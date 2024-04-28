@@ -173,19 +173,19 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 #### **Week 12:**
 -   **Description:**
-    - Lastweek deals with Principal Component Analysis and Cannonical Forms with Implementation in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=41&lesson=120).
+    - Lastweek deals with Principal Component Analysis and Canonical Forms with Implementation in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=41&lesson=120).
    
 
 - **Topics Covered:**
-    - Hierarchical Clustering
-    - Dendograms and Visualisation
-    - Elbow Method
-    - Average Silhouette Method
-    - Implementation in R (using USArrests dataset)
-    - Introduction to Principal Component Analysis
+    - Foundation of PCA
+    - Hands on with and without using packages
+    - Scree-Plot
+    - Introduction to Canonical Variables
+    - Statistical Analysis of Canonical Variable
+    
    
 
 ***
 
-
-Coming Soon!
+The application of the above learnings can be found in my another project. Link - [Click Here](https://github.com/pb319/IPL_Sports_Magazine/tree/main/Predictive%20Analytics).The explanation of the same is aviable in one of my Linkedin post ([link](https://www.linkedin.com/posts/pranaybiswas_resumeprojectchallenge10-resumeprojectchallenge10-activity-7188440262627471362-Ucpx?utm_source=share&utm_medium=member_desktop))
+> Certificate Coming Soon!
