@@ -2,6 +2,7 @@
 age = c(10, 15, 20, 25, 30)
 weight = c(35, 40, 45, 50, 55)
 hb = c(11, 12, 13, 14, 15)
+
 datam = matrix(nrow = 5,ncol = 3, data = c(age,weight,hb),byrow=T)
 mu0 = matrix(nrow = 3,ncol=1, data = c(25,45,13))
 sigma = diag(c(1,2,3))
