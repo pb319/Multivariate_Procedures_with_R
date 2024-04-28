@@ -115,6 +115,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Scaling of Data (Standardization/ Z- Score)
     - Introduction to Multiple Linear Regression
     - Assumptions, Estimation of Parameters (OLS, MLE)
+    - Gauss-Markov Theorem
 
 ***
 
