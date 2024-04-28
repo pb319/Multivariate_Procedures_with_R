@@ -1,3 +1,5 @@
+help.search("Z Test")
+?t.test
 # Hypothesis Testing (One Sample)
 install.packages("compositions")
 library(compositions)
@@ -16,13 +18,13 @@ t.test(temp,alternative = c("two.sided"),mu = 40,paired = FALSE,var.equal = FALS
 
 #Two_sampled Test 
 
-# Difference of Means when Stadard Deviations are known 
+# Difference of Means when Standard Deviations are known 
 library(compositions)
 xa = c(25,32,30,34,24,14,32,24,30,31,35,25)
 xb = c(44,34,22,10,47,31,40,30,32,35,18,21,35,29,22)
 Gauss.test(x=xa,y=xb,mean = 0,sd=2,alternative = c("two.sided"))
 
-# Difference of Means when Stadard Deviations are Unknown
+# Difference of Means when Standard Deviations are Unknown
 t.test(xa,xb,alternative = c("two.sided"), mu=0, paired = FALSE, var.equal =  TRUE, conf.level = 0.95)
 
 
