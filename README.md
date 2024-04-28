@@ -126,12 +126,31 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 - **Topics Covered:**
     - Multiple Linear Regression Model Fitting
-    - Hotelling T-Square Statistic (Unknown Covariance Matrix)
-    - Tests for Mean Vector with Multivariate Data (Two Samples)
-    - Scaling of Data (Standardization/ Z- Score)
+    - Test of Hypothesis for Regression Coeffiients
+    - Confidence Interval estimation of Regression Coeffiients
+    - Test of Overall Adequecy of the Model using ANOVA
     - Introduction to Multiple Linear Regression
-    - Assumptions, Estimation of Parameters (OLS, MLE)
-    - Gauss-Markov Theorem
+    - Godness of Fit
+    - Testing of Normality
+    - Logistic Regression
+    - Introduction to Classsification
+
+***
+
+#### **Week 10:**
+-   **Description:**
+    - In this week we dig deeper into Ression Analysis in R with Introduction to Classification. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=37&lesson=99).
+   
+
+- **Topics Covered:**
+    - Multiple Linear Regression Model Fitting
+    - Test of Hypothesis for Regression Coeffiients
+    - Confidence Interval estimation of Regression Coeffiients
+    - Test of Overall Adequecy of the Model using ANOVA
+    - Introduction to Multiple Linear Regression
+    - Godness of Fit
+    - Testing of Normality
+    - Logistic Regression
 
 ***
 
