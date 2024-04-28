@@ -1,4 +1,4 @@
-# Linear Discriminate Analysis (lda )
+# Linear Discriminate Analysis (LDA )
 
 # Create a Dataframe
 quant = c(5, 2, 6, 9, 8, 7, 9, 10, 10)
@@ -12,10 +12,9 @@ train.f = factor(train,levels = 1:3)
 levels(train.f) = c("none", "some","much") 
 train.f
 
-#Conducting Discrinant Analysis
+#Conducting Discriminant Analysis
 library(MASS)
-lda.fit = lda(train.f~ verbal + quant,
-              data = iq.train)
+lda.fit = lda(train.f~ verbal + quant, data = iq.train)
 lda.fit
 
 # Predicting Group Membership
@@ -26,10 +25,14 @@ result = predict(lda.fit)$class
 result = cbind(result)
 prior = cbind(train.f)
 out = data.frame(prior,result)
+out # Comparative View
 
 # Confusion Matrix
 confusion = table(train.f,result)
 confusion
+
+# Relevant proportions
+prop.table(confusion)
 
 
 # Assignment 10
