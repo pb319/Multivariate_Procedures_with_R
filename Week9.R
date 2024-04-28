@@ -1,3 +1,4 @@
+
 #Linear Regression
 X1=c(34,12,15,33,31,24,40,31,21,37,29,15,17,38
      ,17,36,13,39,36,34)
@@ -14,7 +15,11 @@ y=c(180,116,118,139,195,152,218,170,179,210,
 pairs(~y+X1+X2+X3)
 
 # Model Fitting
-lm(y~X1+X2+X3)
+m = lm(y~X1+X2+X3)
+
+# Relevant Plots
+library(ggplot2)
+plot(m)
 
 # If We're interested only on Coefficients
 coefficients(lm(y~X1+X2+X3))
@@ -28,6 +33,9 @@ residuals(lm(y~X1+X2+X3))
 # Testing of Hypothesis for Regression Coefficients
 summary(lm(y~X1+X2+X3))
 
+# Confidence Interval
+confint(lm(y~X1+X2+X3), level=0.95)
+
 # ANOVA in Regression
 anova(lm(y~X1+X2+X3))
 
@@ -36,7 +44,9 @@ install.packages("HH")
 library("HH")
 data(spacshu)
 spacshu
+plot(spacshu)
 
+# Fitting Generalized Linear Model
 spacshu.glm = glm(damage~tempF,data = spacshu, family = binomial)
 spacshu.glm
 coef(summary(spacshu.glm))
