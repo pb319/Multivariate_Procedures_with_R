@@ -87,7 +87,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 ***
 #### **Week 7:**
 -   **Description:**
-    - Here We dealt with sampling distributions like Chi Square, t, F along with Estimation through Multivariate Normal in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=36&lesson=86).
+    - In this section, the focus was on building the foundation for the 'Testing of Hypothesis' to extend the same into multivariate cases in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=36&lesson=86).
    
 
 - **Topics Covered:**
@@ -99,7 +99,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Paired Test
     - Testing Hypothesis for Difference of Means (Independent Samples)
     - Analysis of Variance (ANOVA)
-    - Homogeneity of Variance 
+    - Homogeneity of Variance (Bartlett Test)
 
 ***
 
