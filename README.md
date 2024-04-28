@@ -79,7 +79,9 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 - **Topics Covered:**
     - Introduction to Multivariate Normal
     - Chi-Square Distribution, t, F
-    - MLE on Multivariate Normal
+    - Estimation of Parameter
+    - Introduction to Point and Interval Estimation
+    - Estimation using MLE on Multivariate Normal Parameters
 
 
 ***
