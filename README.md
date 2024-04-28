@@ -133,24 +133,57 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Godness of Fit
     - Testing of Normality
     - Logistic Regression
-    - Introduction to Classsification
+    - Introduction to Classification
+  
 
 ***
 
 #### **Week 10:**
 -   **Description:**
-    - In this week we dig deeper into Ression Analysis in R with Introduction to Classification. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=37&lesson=99).
+    - In this week we dig deeper into various procedures of Supervised Classification with implementation in R ending with an introduction to Clustering. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=39&lesson=112).
    
 
 - **Topics Covered:**
-    - Multiple Linear Regression Model Fitting
-    - Test of Hypothesis for Regression Coeffiients
-    - Confidence Interval estimation of Regression Coeffiients
-    - Test of Overall Adequecy of the Model using ANOVA
-    - Introduction to Multiple Linear Regression
-    - Godness of Fit
-    - Testing of Normality
-    - Logistic Regression
+    - Bayes Procedure for Classification
+    - Classification Procedure for Multivariate Normal Distributions
+    - Dicriminant Function
+    - Confusion Matrix
+    - Introduction to Cluster Analysis
+    - Classification Schemes
+    - Agglomerative and Divisive Approach
+   
+
+***
+
+#### **Week 11:**
+-   **Description:**
+    - In this week we dig deeper into various procedures of Unsupervised Classification with implementation in R ending with an introduction to Principal Component Analysis. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=40&lesson=116).
+   
+
+- **Topics Covered:**
+    - Hierarchical Clustering
+    - Dendograms and Visualisation
+    - Elbow Method
+    - Average Silhouette Method
+    - Implementation in R (using USArrests dataset)
+    - Introduction to Principal Component Analysis
+   
+
+***
+
+#### **Week 12:**
+-   **Description:**
+    - In this week we dig deeper into various procedures of Unsupervised Classification with implementation in R ending with an introduction to Principal Component Analysis. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=40&lesson=116).
+   
+
+- **Topics Covered:**
+    - Hierarchical Clustering
+    - Dendograms and Visualisation
+    - Elbow Method
+    - Average Silhouette Method
+    - Implementation in R (using USArrests dataset)
+    - Introduction to Principal Component Analysis
+   
 
 ***
 
