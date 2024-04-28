@@ -173,7 +173,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 #### **Week 12:**
 -   **Description:**
-    - In this week we dig deeper into various procedures of Unsupervised Classification with implementation in R ending with an introduction to Principal Component Analysis. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=40&lesson=116).
+    - Lastweek deals with Principal Component Analysis and Cannonical Forms with Implementation in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=41&lesson=120).
    
 
 - **Topics Covered:**
