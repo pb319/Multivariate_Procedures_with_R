@@ -78,6 +78,18 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 - **Topics Covered:**
     - Introduction to Multivariate Normal
+    - Chi-Square Distribution, t, F
+    - MLE on Multivariate Normal
+
+
+***
+#### **Week 7:**
+-   **Description:**
+    - Here We dealt with sampling distributions like Chi Square, t, F along with Estimation through Multivariate Normal in R. Course reference - [Click Here](https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=36&lesson=86).
+   
+
+- **Topics Covered:**
+    - Introduction to Multivariate Normal
     - Chi Square Distribution, t, F
     - MLE on Multivariate Normal
     - 
