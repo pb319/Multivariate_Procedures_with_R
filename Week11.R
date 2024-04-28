@@ -1,6 +1,6 @@
 install.packages("cluster")  # Clustering Algorithms
-install.packages("factoextra") # Clustering Viaualization
-install.packages("dendextend") # for comparing two dendograms
+install.packages("factoextra") # Clustering Visualization
+install.packages("dendextend") # for comparing two Dendograms
 installed.packages("tidyverse")
 library(cluster)
 library(dendextend)
@@ -49,13 +49,17 @@ plot(hclcomplin, cex = 0.6 ,  hang = -1)
 # AGNES
 hclcomplinagnes = agnes(distusascaled, method ="complete")
 hclcomplinagnes$ac
+
 hclaverageagnes = agnes(distusascaled, method ="average")
 hclaverageagnes$ac
+
 hclsingleagnes = agnes(distusascaled, method ="single")
 hclsingleagnes$ac
+
 hclwardagnes = agnes(distusascaled, method ="ward")
 hclwardagnes$ac #Hence 'war' method is the strongest
 
+# Inspect Created Clusters
 subcut4 = cutree(hclwardagnes, k =4)
 rect.hclust(hclwardagnes, k=4, border = 2:5)
 
@@ -63,21 +67,39 @@ rect.hclust(hclwardagnes, k=4, border = 2:5)
 fviz_cluster(list(data=datausascaled, cluster = subgrp4))
 
 
-# K_Means Clusterning
+# K_Means Clustering
 dataeclust = eclust(datausascaled,"hclust",k=3,method = "complete", graph = FALSE)
+
+
+#Creation of Dissimilarity matrix
+distusascaled = dist(datausascaled, method = "euclidean")
+
+# Clustering with Ward's method
+hclward = hclust(distusascaled, method = "ward.D2")
+
+# Clustering with complete linkage
+hclcomplink = hclust(distusascaled, method ="complete")
+
+# Create two individual dendrograms
+dendward = as.dendrogram(hclward)
+dendcomplink = as.dendrogram(hclcomplink)
 
 ## Dendograms side-by-side
 library(dendextend)
 dendward = as.dendrogram(hclwardagnes)
 dendcomlink = as.dendrogram(hclcomplin)
+tanglegram(dendward,dendcomlink)
 
-tanglegram(dedward,dendcomlink)
 # Checking Entanglement # 0 being no entanglement is the best, 1 is the worst
 dendlist_wardlink = dendlist(dendward,dendcomlink)
 entanglement(dendlist_wardlink)
 
 
 #Elbow method
+?fviz_nbclust
+fviz_nbclust(datausascaled, FUN = hcut, method = "wss")
 
+#Silhouette method
+fviz_nbclust(datausascaled, FUN = hcut, method = "silhouette")
 
 
