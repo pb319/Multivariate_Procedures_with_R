@@ -91,10 +91,15 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
    
 
 - **Topics Covered:**
-    - Introduction to Multivariate Normal
-    - Chi Square Distribution, t, F
-    - MLE on Multivariate Normal
-    - 
+    - Introduction to Hypothesis Testing
+    - Type1 and Type2 Errors
+    - P-value, Critical Value and Interval Method of Hypothesis Testing
+    - Central Limit Theorem
+    - Test for One Sample Mean (Sigma known and unknown)
+    - Paired Test
+    - Testing Hypothesis for Difference of Means (Independent Samples)
+    - Analysis of Variance (ANOVA)
+    - Homogeneity of Variance 
 
 ***
 
