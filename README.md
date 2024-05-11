@@ -182,9 +182,14 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
     - Scree-Plot
     - Introduction to Canonical Variables
     - Statistical Analysis of Canonical Variable
-    
-   
 
+#### **Live Interaction**
+-   **Description:**
+    - There was a live interaction with the course instructor which was truly fruitful and addressed some core doubts after the advent of Artificial Intelligence. Link - [Click Here]([https://onlinecourses.nptel.ac.in/noc24_mg68/unit?unit=41&lesson=120](https://www.youtube.com/watch?v=GYPQX0mIvWM)).
+   
+![NPTEL_Certificate (1)](https://github.com/pb319/Multivariate_Procedures_with_R/assets/66114329/9b44c1f7-3496-4b8b-b5da-2a5235faf52c)
+
+    
 ***
 ### Weekly Assignment Scores:
 ![Untitled design (32)](https://github.com/pb319/Multivariate_Procedures_with_R/assets/66114329/1cff0738-4be1-4c8b-9cc7-3954907dfa93)
