@@ -2,7 +2,21 @@
 It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Statistics and Data Science at IIT Kanpur. Course Description is available - [Here](https://onlinecourses.nptel.ac.in/noc24_mg68/preview)
 
 #### Table of Contents:
-- Week 1
+- [Week 1](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-1)
+- [Week 2](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-2)
+- [Week 3](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-3)
+- [Week 4](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-4)
+- [Week 5](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-5)
+- [Week 6](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-6)
+- [Week 7](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-7)
+- [Week 8](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-8)
+- [Week 9](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-9)
+- [Week 10](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-10)
+- [Week 11](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-11)
+- [Week 12](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-12)
+- [Live Discussion](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#live-interaction)
+- [Weekly Assignment Scores](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#weekly-assignment-scores)
+- [Final Course Certificate]()
 
 ****
 #### **Week 1:**
