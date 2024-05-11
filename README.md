@@ -208,12 +208,9 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 ### Weekly Assignment Scores:
 ![Untitled design (32)](https://github.com/pb319/Multivariate_Procedures_with_R/assets/66114329/1cff0738-4be1-4c8b-9cc7-3954907dfa93)
 
-
->  - The application of the above learnings can be found in my another project. Link - [Click Here](https://github.com/pb319/IPL_Sports_Magazine/tree/main/Predictive%20Analytics)
->  - The explanation of the same is aviable in one of my Linkedin post ([link](https://www.linkedin.com/posts/pranaybiswas_resumeprojectchallenge10-resumeprojectchallenge10-activity-7188440262627471362-Ucpx?utm_source=share&utm_medium=member_desktop))
-
-
-#### **Certificate :**
+### **Certificate :**
 
 ![01](https://github.com/pb319/Multivariate_Procedures_with_R/assets/66114329/40e98762-65ba-48cc-bf51-289efa622e24)
 
+>  - The application of the above learnings can be found in my another project. Link - [Click Here](https://github.com/pb319/IPL_Sports_Magazine/tree/main/Predictive%20Analytics)
+>  - The explanation of the same is aviable in one of my Linkedin post ([link](https://www.linkedin.com/posts/pranaybiswas_resumeprojectchallenge10-resumeprojectchallenge10-activity-7188440262627471362-Ucpx?utm_source=share&utm_medium=member_desktop))
