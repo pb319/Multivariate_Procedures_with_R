@@ -16,7 +16,7 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 - [Week 12](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#week-12)
 - [Live Discussion](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#live-interaction)
 - [Weekly Assignment Scores](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#weekly-assignment-scores)
-- [Final Course Certificate]()
+- [Final Course Certificate](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#certificate-)
 
 ****
 #### **Week 1:**
