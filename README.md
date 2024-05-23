@@ -17,8 +17,8 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 - [Live Discussion](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#live-interaction)
 - [Weekly Assignment Scores](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#weekly-assignment-scores)
 - [Final Course Certificate](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#certificate-)
-- [Handwritten Notes](https://lnkd.in/gmH8Zzd3)
-- [Final Linkedin Post](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#certificate-)
+- [Handwritten Notes]([https://lnkd.in/gmH8Zzd3](https://drive.google.com/file/d/1ndEM3lqHQbbhClAHAmne1GwqRcHGPQhW/view))
+
 
 ****
 #### **Week 1:**
@@ -216,3 +216,4 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 >  - The application of the above learnings can be found in my another project. Link - [Click Here](https://github.com/pb319/IPL_Sports_Magazine/tree/main/Predictive%20Analytics)
 >  - The explanation of the same is aviable in one of my Linkedin post ([link](https://www.linkedin.com/posts/pranaybiswas_resumeprojectchallenge10-resumeprojectchallenge10-activity-7188440262627471362-Ucpx?utm_source=share&utm_medium=member_desktop))
+>  - [Final Linkedin Post](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#certificate-)
