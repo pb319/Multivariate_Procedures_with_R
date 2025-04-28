@@ -216,4 +216,4 @@ It is a 12-week NPTEL course taught by Prof. Shalabh who is a Professor of Stati
 
 >  - The application of the above learnings can be found in my another project. Link - [Click Here](https://github.com/pb319/IPL_Sports_Magazine/tree/main/Predictive%20Analytics)
 >  - The explanation of the same is aviable in one of my Linkedin post ([link](https://www.linkedin.com/posts/pranaybiswas_resumeprojectchallenge10-resumeprojectchallenge10-activity-7188440262627471362-Ucpx?utm_source=share&utm_medium=member_desktop))
->  - [Final Linkedin Post](https://github.com/pb319/Multivariate_Procedures_with_R?tab=readme-ov-file#certificate-)
+>  - [Final Linkedin Post](https://www.linkedin.com/posts/pranaybiswas_multivariate-procedures-with-r-nptel-activity-7195045611618881536-_SWS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuL-wBeFdwnAftI3Yf42fNC6Mj_ETyCVE)
